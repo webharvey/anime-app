@@ -1,0 +1,19 @@
+#app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#anime-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.anime {
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
