@@ -17,3 +17,7 @@
   border-radius: 5px;
   text-align: center;
 }
+
+.anime img {
+  width: 100%;
+}
